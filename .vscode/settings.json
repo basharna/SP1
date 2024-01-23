@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/bashar/Programming/SystemsProgramming1/Ex1",
+            "binaryPath": "/home/bashar/Programming/SystemsProgramming1/Ex1/loops",
+            "binaryArgs": []
+        }
+    ]
+}
