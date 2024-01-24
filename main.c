@@ -4,13 +4,11 @@
 int main(){
     int firstNum, secondNum;
 
-    printf("Enter first number: ");
     if (scanf("%d", &firstNum) != 1) {
         printf("Invalid input. Please enter a valid integer.\n");
         return 1;
     }
-
-    printf("Enter second number: ");
+    
     if (scanf("%d", &secondNum) != 1) {
         printf("Invalid input. Please enter a valid integer.\n");
         return 1;
